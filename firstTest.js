@@ -13,6 +13,7 @@ async function test() {
 
     // close the browser
     await driver.quit();
+    
 }
 
 test();
